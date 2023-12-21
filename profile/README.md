@@ -10,7 +10,6 @@
  We are best reached via email. We are always open to interesting conversations and collaboration.
  
  ---
-[![Twitter Follow](https://img.shields.io/twitter/follow/checkoja?label=Follow&style=social)](https://twitter.com/checkoja)
-- checkoja 🥂
+[![Twitter Follow](https://img.shields.io/twitter/follow/checkoja?label=Follow&style=social)](https://twitter.com/checkoja) checkoja 🥂
 
  
