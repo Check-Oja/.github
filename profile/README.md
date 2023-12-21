@@ -6,5 +6,4 @@
   * 🍿 Don't be scared to propose changes because that is how we grow.
   * 🧙 Remember, you can do mighty things if you believe in yourself.
 
-Cheers
-engrgit 
+- engrgit 🥂
