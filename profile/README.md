@@ -1,7 +1,8 @@
 ## Hello my people 👋
 
   * 🙋‍♀️ Checkoja is a project aimed at digitalising local markets in Africa.
-  * ▶️ Currently building [checkoja](https://checkoja.blogspot.com/) in Africa
+  * 💎 Read our white paper [here](https://checkoja.blogspot.com/)
+  * ▶️ Download our app [here](https://checkoja.blogspot.com/)
   * 🌈 You can contribute by adding changes to the repo that aligns with your jurisdiction.
   * 👩‍💻 Other useful resources are under our public repositories.
   * 🍿 Don't be scared to propose changes because that is how we grow.
